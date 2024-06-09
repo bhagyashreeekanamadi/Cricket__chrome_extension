@@ -1,0 +1,10 @@
+body{
+    width:400px;
+    font-family: cursive;
+    background-color: rgb(57, 192, 230);
+}
+p{
+    font-family: cursive;
+    font-weight: bolder;
+    color:rgb(22, 24, 164)
+}
